@@ -1,1 +1,3 @@
-# pomodoro
+# Pomodoro
+
+(img/pomodoro.png)
