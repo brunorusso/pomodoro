@@ -59,7 +59,7 @@ def update_ui(message):
     status_label.config(text=message)
 
 def open_about_page():
-    webbrowser.open("https://brunorusso.com.br")
+    webbrowser.open("https://github.com/brunorusso/pomodoro")
 
 def minimize_to_tray():
     root.withdraw()
